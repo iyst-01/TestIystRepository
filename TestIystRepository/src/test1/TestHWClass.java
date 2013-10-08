@@ -7,6 +7,7 @@ public class TestHWClass {
 		System.out.println("1.1 Hellow World from iyst-01");
 		System.out.println("1.3 Hellow World from iyst-01");
 		System.out.println("1.5 Hellow World from iyst-01");
+		System.out.println("1.7 Hellow World from iyst-01");
 
 	}
 
